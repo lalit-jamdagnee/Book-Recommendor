@@ -22,16 +22,27 @@ Check out the live demo on Hugging Face Spaces:
 ## 🗂️ Project Structure
 
 ├── books_cleaned.csv             # Preprocessed book data
+
 ├── books_with_categories.csv     # Books labeled with categories
+
 ├── books_with_emotions.csv       # Books annotated with emotional tones
+
 ├── cover.jpg                     # Cover image for the project
+
 ├── data_exploration.ipynb        # Notebook for data analysis and visualization
+
 ├── gradio_dashboard.py           # Gradio app for interactive recommendations
+
 ├── requirements.txt              # Python dependencies
+
 ├── sentimental_analysis.ipynb    # Notebook for sentiment analysis
+
 ├── tagged_description.txt        # Text data with tags for classification
+
 ├── text_classification.ipynb     # Notebook for text classification tasks
+
 ├── vector_search.ipynb           # Notebook for implementing vector-based search
+
 └── README.md                     # Project documentation
 
 
