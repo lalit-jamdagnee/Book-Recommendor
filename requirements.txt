@@ -1,0 +1,10 @@
+kagglehub
+pandas
+matplotlib
+seaborn
+python-dotenv
+langchain[all]
+transformers
+gradio
+ipywidgets
+ipykernel
